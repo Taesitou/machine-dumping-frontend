@@ -1,5 +1,28 @@
 # Machine Dumping App
 
+## 📱 Vista previa
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="screenshots/login.jpeg" width="200" alt="Pantalla de inicio" /><br/>
+      <sub><b>Pantalla de inicio</b><br/>Login y registro de usuarios (clientes o empresas)</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="screenshots/dashboard-cliente.jpeg" width="200" alt="Dashboard del cliente" /><br/>
+      <sub><b>Dashboard del cliente</b><br/>Entorno al que está unido, total gastado y compras registradas</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="screenshots/escaneo-producto.jpeg" width="200" alt="Confirmación de producto escaneado" /><br/>
+      <sub><b>Escaneo de productos</b><br/>Confirmación de compra tras escanear el código de barras</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="screenshots/dashboard-company.jpeg" width="200" alt="Dashboard de la empresa" /><br/>
+      <sub><b>Dashboard de la empresa</b><br/>Carga y edición de productos, recaudación, producto más vendido y mayor comprador</sub>
+    </td>
+  </tr>
+</table>
+
 Aplicación full-stack con backend Node.js + Express + Prisma y frontend React Native + Expo que muestra un ranking de usuarios por dinero gastado.
 
 ## Requisitos
